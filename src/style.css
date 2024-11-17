@@ -1,0 +1,134 @@
+.outer {
+background-color:aqua;
+}
+.inner {
+    background-color: aquamarine;
+    margin: 30px 30px;
+    padding: 30px;
+    border-radius: 20px;
+}
+.profile-one {
+    max-height: 300px;
+    display: block;
+    margin: 0px auto;
+    border-radius: 80px;
+}
+h3 {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-style: italic;
+}
+h2 {
+text-align: center;
+}
+.linkedin-logo {
+    width: 50px;
+    border-radius: 150px;
+}
+.linkedin-logo:hover {
+    transition: transform 0.3s ease-in-out;
+    transform: scale(2);
+}
+.netlify-logo {
+    width: 50px;
+    border-radius: 20px;
+}
+.netlify-logo:hover {
+    transition: transform 150ms ease-in-out;
+    transform: scale(1.5);
+}
+.github-logo {
+    width: 50px;
+    border-radius: 200px;
+}
+.github-logo:hover {
+    transition: transform 0.3s ease-in-out;
+    transform: scale(2);
+}
+.logo {
+    display: flex;
+    justify-content: space-evenly;
+}
+.profile-two {
+    max-height: 300px;
+    display: block;
+    margin: 0px auto;
+    border-radius: 80px;
+}
+.experience {
+    border: 1px solid grey;
+    border-radius: 30px;
+    margin: 10px 50px;
+    padding: 20px;
+    text-align: center;
+}
+.education {
+    border: 1px solid grey;
+    border-radius: 30px;
+    margin: 10px 50px;
+    padding: 20px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}
+.about {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.languages {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin: 10px 200px;
+}
+.front-end {
+    font-size: large;
+    font-weight: bolder;
+    margin: 10px;
+}
+.html {
+    margin: 10px;
+}
+.css {
+    margin: 10px;
+}
+.javascipt {
+    margin: 10px;
+}
+.api {
+    margin: 10px;
+}
+.hobby-project {
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 10px 50px;
+    padding: 10px 0px;
+}
+.cocktails {
+    max-height: 300px;
+    display: block;
+    margin: 0px auto;
+    border-radius: 80px;
+}
+.netlify-hobby {
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 30px;
+    margin: 10px 180px;
+    padding: 5px;
+}
+.github-hobby {
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 30px;
+    margin: 10px 180px;
+    padding: 5px;
+}
