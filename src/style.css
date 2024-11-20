@@ -3,9 +3,11 @@ background-color:aqua;
 }
 .inner {
     background-color: aquamarine;
-    margin: 30px 30px;
+    margin: auto;
     padding: 30px;
     border-radius: 20px;
+    width: 50%;
+    display: block;
 }
 .profile-one {
     max-height: 300px;
