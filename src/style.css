@@ -160,4 +160,18 @@ a:hover {
     margin: 10px 180px;
     padding: 5px;
 }
+.contact {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto 240px;
+}
+.email {
+    text-align: center;
+    font-size: larger;
+}
+.cell {
+    text-align: center;
+    font-size: larger;
+}
 
