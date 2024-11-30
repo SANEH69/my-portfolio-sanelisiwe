@@ -160,6 +160,32 @@ a:hover {
     margin: 10px 180px;
     padding: 5px;
 }
+.clock-app {
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 10px 50px;
+    padding: 10px 0px;
+}
+.clock-app-project {
+    max-height: 300px;
+    display: block;
+    margin: 0px auto;
+    border-radius: 80px;
+}
+.netlify-clock-app-project {
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 30px;
+    margin: 10px 180px;
+    padding: 5px;
+}
+.github-clock-app-project {
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 30px;
+    margin: 10px 180px;
+    padding: 5px;
+}
 .contact {
     border: 1px solid black;
     border-radius: 20px;
