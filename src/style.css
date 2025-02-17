@@ -54,22 +54,12 @@ text-align: center;
     display: flex;
     justify-content: space-evenly;
 }
-.profile-two {
-    max-height: 300px;
-    display: block;
-    margin: 0px auto;
-    border-radius: 80px;
-}
 .experience {
-    border: 1px solid grey;
-    border-radius: 30px;
     margin: 10px 50px;
     padding: 20px;
     text-align: center;
 }
 .education {
-    border: 1px solid grey;
-    border-radius: 30px;
     margin: 10px 50px;
     padding: 20px;
     text-align: center;
@@ -86,8 +76,6 @@ a:hover {
 }
 .languages {
     text-align: center;
-    border: 1px solid black;
-    border-radius: 30px;
     margin: 10px 200px;
 }
 .front-end {
@@ -108,8 +96,6 @@ a:hover {
     margin: 10px;
 }
 .hobby-project {
-    border: 1px solid black;
-    border-radius: 20px;
     margin: 10px 50px;
     padding: 10px 0px;
 }
@@ -117,25 +103,18 @@ a:hover {
     max-height: 300px;
     display: block;
     margin: 0px auto;
-    border-radius: 80px;
 }
 .netlify-hobby {
     text-align: center;
-    border: 3px solid black;
-    border-radius: 30px;
     margin: 10px 180px;
     padding: 5px;
 }
 .github-hobby {
     text-align: center;
-    border: 3px solid black;
-    border-radius: 30px;
     margin: 10px 180px;
     padding: 5px;
 }
 .weather-app-project {
-    border: 1px solid black;
-    border-radius: 20px;
     margin: 10px 50px;
     padding: 10px 0px;
 }
@@ -143,25 +122,19 @@ a:hover {
     max-height: 300px;
     display: block;
     margin: 0px auto;
-    border-radius: 80px;
 }
 .netlify-weather-app {
     text-align: center;
-    border: 3px solid black;
     border-radius: 30px;
     margin: 10px 180px;
     padding: 5px;
 }
 .github-weather-app {
     text-align: center;
-    border: 3px solid black;
-    border-radius: 30px;
     margin: 10px 180px;
     padding: 5px;
 }
 .clock-app {
-    border: 1px solid black;
-    border-radius: 20px;
     margin: 10px 50px;
     padding: 10px 0px;
 }
@@ -169,25 +142,18 @@ a:hover {
     max-height: 300px;
     display: block;
     margin: 0px auto;
-    border-radius: 80px;
 }
 .netlify-clock-app-project {
     text-align: center;
-    border: 3px solid black;
-    border-radius: 30px;
     margin: 10px 180px;
     padding: 5px;
 }
 .github-clock-app-project {
     text-align: center;
-    border: 3px solid black;
-    border-radius: 30px;
     margin: 10px 180px;
     padding: 5px;
 }
 .contact {
-    border: 1px solid black;
-    border-radius: 20px;
     padding: 10px;
     margin: auto 240px;
 }
