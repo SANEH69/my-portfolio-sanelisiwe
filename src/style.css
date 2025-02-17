@@ -3,10 +3,9 @@
 }
 .inner {
     background: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);
-    margin: 50px auto;
+    margin: auto;
     padding: 30px;
-    border-radius: 20px;
-    width: 80%;
+    width: 100%;
     display: block;
 }
 .profile-one {
